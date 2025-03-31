@@ -81,7 +81,7 @@ O objetivo é demonstrar boas práticas de desenvolvimento com **arquitetura lim
 
 ## 🚀 Como Executar o Projeto
 ### **Pré-requisitos**
-- Java 24 instalado
+- Java 21 instalado
 - Maven instalado
 
 ### **Passos para rodar o projeto**
