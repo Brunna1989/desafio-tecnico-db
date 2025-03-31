@@ -111,8 +111,8 @@ O projeto usa um banco de dados em memória (**H2**). Para acessar a interface w
 
 ## 🛠️ Autor e Contato
 Desenvolvido por **[Seu Nome]** 💻✨
-- 🔗 LinkedIn: [seu-linkedin](https://www.linkedin.com/in/seu-perfil/)
-- 📧 Email: [seu-email@email.com](mailto:seu-email@email.com)
+- 🔗 LinkedIn: [seu-linkedin](https://www.linkedin.com/in/brunna-r-6516b7231/)
+- 📧 Email: [seu-email@email.com](brunnadornelles407@gmail.com)
 
 ---
 
